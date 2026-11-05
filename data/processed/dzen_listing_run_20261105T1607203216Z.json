@@ -1,0 +1,49 @@
+{
+  "run_id": "20261105T1607203216Z",
+  "listing_url": "https://dzen.ru/news/rubric/computers",
+  "started_at": "2026-11-05T16:02:07.204052+00:00",
+  "updated_at": "2026-11-05T16:02:27.605417+00:00",
+  "target_stories": 200,
+  "seen_this_run": 18,
+  "catalog_total": 28,
+  "stop_reason": "no_new_stories",
+  "archive_complete": false,
+  "steps": [
+    {
+      "scroll": 0,
+      "cards_in_dom": 18,
+      "new_story_ids": 18,
+      "seen_total": 18
+    },
+    {
+      "scroll": 1,
+      "cards_in_dom": 18,
+      "new_story_ids": 0,
+      "seen_total": 18
+    },
+    {
+      "scroll": 2,
+      "cards_in_dom": 18,
+      "new_story_ids": 0,
+      "seen_total": 18
+    },
+    {
+      "scroll": 3,
+      "cards_in_dom": 18,
+      "new_story_ids": 0,
+      "seen_total": 18
+    },
+    {
+      "scroll": 4,
+      "cards_in_dom": 18,
+      "new_story_ids": 0,
+      "seen_total": 18
+    },
+    {
+      "scroll": 5,
+      "cards_in_dom": 18,
+      "new_story_ids": 0,
+      "seen_total": 18
+    }
+  ]
+}

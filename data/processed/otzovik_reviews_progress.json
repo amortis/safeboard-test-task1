@@ -1,0 +1,350 @@
+{
+  "min_reviews": 10,
+  "reviews_limit_per_object": 30,
+  "sort_order": "date_desc",
+  "objects": {
+    "https://otzovik.com/reviews/bank_kontur_bank_russia_moscow/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 16,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/mkk_didzhital_mani_byudzhet/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/karta_aziatsko-tihookeanskogo_banka_yunionpey_debetovaya_atb/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 10,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/sluzhba_podderzhki_yandeks_bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/obschestvo_s_ogranichennoy_otvetstvennostyu_sistema/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 21,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/ipoteka_v_sberbank_cherez_domklik/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 16,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/cifrovie_finansovie_aktivi_cfa_ozon_bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/raschetniy_schet_dlya_biznesa_ozon_bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/nakopitelniy_schet_ozon_ezhednevniy_dohod/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 27,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_gazprombank_russia_voronezh/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 13,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_vayldberriz_russia_moscow/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/vkladi_na_finuslugah_finuslugi/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/alfanpf/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 21,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/zapret_na_krediti_gosuslugi/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/nakopitelniy_schet_mts_bank_mts_schet/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 19,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/npf_vtb_russia_moscow/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 16,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/eksi_bank_mts_dengi_russia/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/igra_t-bank_speys-investors/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 14,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_ingosstrah_russia_moscow/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 15,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/reklama_banka_vtb/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/svoboda-finans/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_freedom_bank_kazahstan_aktau/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 12,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/center-svoboda_ru-vserossiyskiy_centr_bankrotstva/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/wb-bank_ru-bank_wildberries/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/federalniy_promishlenno-investicionniy_bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 11,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_bank_131/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/yuridicheskaya_kompaniya_bankirro_russia_sankt-peterburg/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 13,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/pao_sberbank_russia/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 15,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_moskovskiy_kreditniy_bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/nakopitelniy_schet_yandeks_bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/t-partneri/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/igra_ot_alfa-banka_alfa-mani/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/fast_river/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 27,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/akcionernoe_obschestvo_upravlyayuschaya_kompaniya_pervaya/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 14,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_yandex_ru-yandeks_seyv/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/nakopitelniy_schet_v_gazprombanke/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 15,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/nakopitelniy_vtb-schet/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/nakopitelniy_schet_sberbank_ezhednevniy/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 18,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/norvik_bank_russia_moscow/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 12,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/svoy_bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/sberspasibo_sberbank_rossii/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_domrf_russia_moscow/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 12,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/pochta-bank_russia/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/rosselhoz_bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/finansoviy_forum_hranidengi/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 11,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/debetovaya_valyutnaya_karta_tinkoff_platinum/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 18,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/t-bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/pao_vtb/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/vklad_ozon_bank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_skb_/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_binbank/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_kredit_ural_bank_russia_magnitogorsk/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 17,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_absolyut_bank_russia/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_otkritie_russia/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_avangard_russia_moscow/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_ak_bars_bank_russia_tatarstan/": {
+      "status": "ok",
+      "limit": 30,
+      "selected_reviews": 30,
+      "listing_pages": 1
+    },
+    "https://otzovik.com/reviews/bank_pumb_ukraina/": {
+      "status": "running",
+      "limit": 30
+    }
+  },
+  "ok_reviews": 1356,
+  "error_reviews": 0,
+  "collected_at": "2026-11-05T19:38:31.676184+00:00"
+}

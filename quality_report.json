@@ -1,0 +1,420 @@
+{
+  "generated_at": "2026-11-05T22:37:52.372483+00:00",
+  "missing_definition": "Нет значения ни в одном из указанных полей: ключ отсутствует, null или пустая строка.",
+  "duplicate_definition": "Число записей сверх первого вхождения непустого ID или точного URL.",
+  "sources": {
+    "4pda": {
+      "file": "results/4pda.jsonl",
+      "records_count": 5539,
+      "duplicates_by_id": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "duplicates_by_url": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "missing_fields": {
+        "id": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "review_id",
+            "post_id",
+            "story_id"
+          ]
+        },
+        "url": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "url",
+            "story_url"
+          ]
+        },
+        "author": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "full_author",
+            "author",
+            "text_author"
+          ]
+        },
+        "date": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "published_at",
+            "full_published_at",
+            "published_datetime_raw",
+            "published_date",
+            "published_date_raw"
+          ]
+        },
+        "text": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "text"
+          ]
+        }
+      },
+      "fetch_status_counts": {
+        "not_recorded": 5539
+      },
+      "empty_text_count": 0,
+      "expected_without_full_text": 0,
+      "unexpected_empty_text_count": 0,
+      "fetch_error_count": 0,
+      "fetch_error_reasons": {},
+      "read_error_count": 0,
+      "read_errors": []
+    },
+    "drive2": {
+      "file": "results/drive2.jsonl",
+      "records_count": 97,
+      "duplicates_by_id": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "duplicates_by_url": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "missing_fields": {
+        "id": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "review_id",
+            "post_id",
+            "story_id"
+          ]
+        },
+        "url": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "url",
+            "story_url"
+          ]
+        },
+        "author": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "full_author",
+            "author",
+            "text_author"
+          ]
+        },
+        "date": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "published_at",
+            "full_published_at",
+            "published_datetime_raw",
+            "published_date",
+            "published_date_raw"
+          ]
+        },
+        "text": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "text"
+          ]
+        }
+      },
+      "fetch_status_counts": {
+        "ok": 97
+      },
+      "empty_text_count": 0,
+      "expected_without_full_text": 0,
+      "unexpected_empty_text_count": 0,
+      "fetch_error_count": 0,
+      "fetch_error_reasons": {},
+      "read_error_count": 0,
+      "read_errors": []
+    },
+    "dzen": {
+      "file": "results/dzen.jsonl",
+      "records_count": 47,
+      "duplicates_by_id": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "duplicates_by_url": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "missing_fields": {
+        "id": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "review_id",
+            "post_id",
+            "story_id"
+          ]
+        },
+        "url": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "url",
+            "story_url"
+          ]
+        },
+        "date": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "published_at",
+            "full_published_at",
+            "published_datetime_raw",
+            "published_date",
+            "published_date_raw"
+          ]
+        },
+        "text": {
+          "count": 12,
+          "percent": 25.53,
+          "fields_used": [
+            "text"
+          ]
+        },
+        "publisher": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "selected_publisher",
+            "publisher"
+          ]
+        }
+      },
+      "fetch_status_counts": {
+        "ok": 47
+      },
+      "empty_text_count": 12,
+      "expected_without_full_text": 12,
+      "unexpected_empty_text_count": 0,
+      "fetch_error_count": 0,
+      "fetch_error_reasons": {},
+      "read_error_count": 0,
+      "read_errors": []
+    },
+    "irecommend": {
+      "file": "results/irecommend.jsonl",
+      "records_count": 394,
+      "duplicates_by_id": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "duplicates_by_url": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "missing_fields": {
+        "id": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "review_id",
+            "post_id",
+            "story_id"
+          ]
+        },
+        "url": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "url",
+            "story_url"
+          ]
+        },
+        "author": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "full_author",
+            "author",
+            "text_author"
+          ]
+        },
+        "date": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "published_at",
+            "full_published_at",
+            "published_datetime_raw",
+            "published_date",
+            "published_date_raw"
+          ]
+        },
+        "text": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "text"
+          ]
+        }
+      },
+      "fetch_status_counts": {
+        "ok": 394
+      },
+      "empty_text_count": 0,
+      "expected_without_full_text": 0,
+      "unexpected_empty_text_count": 0,
+      "fetch_error_count": 0,
+      "fetch_error_reasons": {},
+      "read_error_count": 0,
+      "read_errors": []
+    },
+    "livejournal": {
+      "file": "results/livejournal.jsonl",
+      "records_count": 399,
+      "duplicates_by_id": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "duplicates_by_url": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "missing_fields": {
+        "id": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "review_id",
+            "post_id",
+            "story_id"
+          ]
+        },
+        "url": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "url",
+            "story_url"
+          ]
+        },
+        "date": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "published_at",
+            "full_published_at",
+            "published_datetime_raw",
+            "published_date",
+            "published_date_raw"
+          ]
+        },
+        "text": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "text"
+          ]
+        },
+        "publisher": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "selected_publisher",
+            "publisher"
+          ]
+        }
+      },
+      "fetch_status_counts": {
+        "ok": 399
+      },
+      "empty_text_count": 0,
+      "expected_without_full_text": 0,
+      "unexpected_empty_text_count": 0,
+      "fetch_error_count": 0,
+      "fetch_error_reasons": {},
+      "read_error_count": 0,
+      "read_errors": []
+    },
+    "otzovik": {
+      "file": "results/otzovik.jsonl",
+      "records_count": 1356,
+      "duplicates_by_id": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "duplicates_by_url": {
+        "extra_records": 0,
+        "repeated_values": {}
+      },
+      "missing_fields": {
+        "id": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "review_id",
+            "post_id",
+            "story_id"
+          ]
+        },
+        "url": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "url",
+            "story_url"
+          ]
+        },
+        "author": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "full_author",
+            "author",
+            "text_author"
+          ]
+        },
+        "date": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "published_at",
+            "full_published_at",
+            "published_datetime_raw",
+            "published_date",
+            "published_date_raw"
+          ]
+        },
+        "text": {
+          "count": 0,
+          "percent": 0.0,
+          "fields_used": [
+            "text"
+          ]
+        }
+      },
+      "fetch_status_counts": {
+        "ok": 1356
+      },
+      "empty_text_count": 0,
+      "expected_without_full_text": 0,
+      "unexpected_empty_text_count": 0,
+      "fetch_error_count": 0,
+      "fetch_error_reasons": {},
+      "read_error_count": 0,
+      "read_errors": []
+    }
+  },
+  "totals": {
+    "files": 6,
+    "records": 7832,
+    "fetch_errors": 0,
+    "read_errors": 0,
+    "unexpected_empty_text": 0
+  }
+}

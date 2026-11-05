@@ -1,0 +1,1489 @@
+{
+  "forum_id": "320",
+  "scope": "First 30 topics on first forum page; first page and 10 last observed pages of each topic, overlapping pages deduplicated",
+  "last_pages_per_topic": 10,
+  "posts_per_page": 20,
+  "archive_complete": false,
+  "pages": {
+    "180515:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "180515:11920": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11920",
+      "status": "ok",
+      "posts": 2
+    },
+    "699738:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19220": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19220",
+      "status": "ok",
+      "posts": 7
+    },
+    "521445:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17480": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17480",
+      "status": "ok",
+      "posts": 17
+    },
+    "1030119:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:440": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=440",
+      "status": "ok",
+      "posts": 10
+    },
+    "724465:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=724465&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "724465:140": {
+      "url": "https://4pda.to/forum/index.php?showtopic=724465&st=140",
+      "status": "ok",
+      "posts": 11
+    },
+    "141500:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:860": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=860",
+      "status": "ok",
+      "posts": 3
+    },
+    "532762:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:900": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=900",
+      "status": "ok",
+      "posts": 6
+    },
+    "1108250:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1108250&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "1108250:60": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1108250&st=60",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7240": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7240",
+      "status": "ok",
+      "posts": 20
+    },
+    "470933:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29440": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29440",
+      "status": "ok",
+      "posts": 3
+    },
+    "956751:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:1060": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=1060",
+      "status": "ok",
+      "posts": 3
+    },
+    "775241:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1300": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1300",
+      "status": "ok",
+      "posts": 2
+    },
+    "733855:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:960": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=960",
+      "status": "ok",
+      "posts": 7
+    },
+    "803793:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:300": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=300",
+      "status": "ok",
+      "posts": 6
+    },
+    "526450:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:520": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=520",
+      "status": "ok",
+      "posts": 9
+    },
+    "791713:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2280": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2280",
+      "status": "ok",
+      "posts": 16
+    },
+    "484325:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:320": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=320",
+      "status": "ok",
+      "posts": 9
+    },
+    "390098:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=390098&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "390098:80": {
+      "url": "https://4pda.to/forum/index.php?showtopic=390098&st=80",
+      "status": "ok",
+      "posts": 10
+    },
+    "640588:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:420": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=420",
+      "status": "ok",
+      "posts": 12
+    },
+    "392249:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7280": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7280",
+      "status": "ok",
+      "posts": 16
+    },
+    "1024696:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1024696&st=0",
+      "status": "ok",
+      "posts": 8
+    },
+    "211746:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:620": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=620",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:800": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=800",
+      "status": "ok",
+      "posts": 11
+    },
+    "979614:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1680": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1680",
+      "status": "ok",
+      "posts": 7
+    },
+    "569469:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:900": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=900",
+      "status": "ok",
+      "posts": 2
+    },
+    "794031:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:220": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=220",
+      "status": "ok",
+      "posts": 6
+    },
+    "579514:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:740": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=740",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:640": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=640",
+      "status": "ok",
+      "posts": 18
+    },
+    "912734:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:400": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=400",
+      "status": "ok",
+      "posts": 2
+    },
+    "1113680:0": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1113680&st=0",
+      "status": "ok",
+      "posts": 21
+    },
+    "1113680:20": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1113680&st=20",
+      "status": "ok",
+      "posts": 13
+    },
+    "180515:11740": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11740",
+      "status": "ok",
+      "posts": 21
+    },
+    "180515:11760": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11760",
+      "status": "ok",
+      "posts": 21
+    },
+    "180515:11780": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11780",
+      "status": "ok",
+      "posts": 21
+    },
+    "180515:11800": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11800",
+      "status": "ok",
+      "posts": 21
+    },
+    "180515:11820": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11820",
+      "status": "ok",
+      "posts": 21
+    },
+    "180515:11840": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11840",
+      "status": "ok",
+      "posts": 21
+    },
+    "180515:11860": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11860",
+      "status": "ok",
+      "posts": 21
+    },
+    "180515:11880": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11880",
+      "status": "ok",
+      "posts": 21
+    },
+    "180515:11900": {
+      "url": "https://4pda.to/forum/index.php?showtopic=180515&st=11900",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19040": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19040",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19060": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19060",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19080": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19080",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19100": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19100",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19120": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19120",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19140": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19140",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19160": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19160",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19180": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19180",
+      "status": "ok",
+      "posts": 21
+    },
+    "699738:19200": {
+      "url": "https://4pda.to/forum/index.php?showtopic=699738&st=19200",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17300": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17300",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17320": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17320",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17340": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17340",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17360": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17360",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17380": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17380",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17400": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17400",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17420": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17420",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17440": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17440",
+      "status": "ok",
+      "posts": 21
+    },
+    "521445:17460": {
+      "url": "https://4pda.to/forum/index.php?showtopic=521445&st=17460",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:260": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=260",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:280": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=280",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:300": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=300",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:320": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=320",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:340": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=340",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:360": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=360",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:380": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=380",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:400": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=400",
+      "status": "ok",
+      "posts": 21
+    },
+    "1030119:420": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1030119&st=420",
+      "status": "ok",
+      "posts": 21
+    },
+    "724465:20": {
+      "url": "https://4pda.to/forum/index.php?showtopic=724465&st=20",
+      "status": "ok",
+      "posts": 21
+    },
+    "724465:40": {
+      "url": "https://4pda.to/forum/index.php?showtopic=724465&st=40",
+      "status": "ok",
+      "posts": 21
+    },
+    "724465:60": {
+      "url": "https://4pda.to/forum/index.php?showtopic=724465&st=60",
+      "status": "ok",
+      "posts": 21
+    },
+    "724465:80": {
+      "url": "https://4pda.to/forum/index.php?showtopic=724465&st=80",
+      "status": "ok",
+      "posts": 21
+    },
+    "724465:100": {
+      "url": "https://4pda.to/forum/index.php?showtopic=724465&st=100",
+      "status": "ok",
+      "posts": 21
+    },
+    "724465:120": {
+      "url": "https://4pda.to/forum/index.php?showtopic=724465&st=120",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:680": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=680",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:700": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=700",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:720": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=720",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:740": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=740",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:760": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=760",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:780": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=780",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:800": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=800",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:820": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=820",
+      "status": "ok",
+      "posts": 21
+    },
+    "141500:840": {
+      "url": "https://4pda.to/forum/index.php?showtopic=141500&st=840",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:720": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=720",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:740": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=740",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:760": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=760",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:780": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=780",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:800": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=800",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:820": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=820",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:840": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=840",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:860": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=860",
+      "status": "ok",
+      "posts": 21
+    },
+    "532762:880": {
+      "url": "https://4pda.to/forum/index.php?showtopic=532762&st=880",
+      "status": "ok",
+      "posts": 21
+    },
+    "1108250:20": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1108250&st=20",
+      "status": "ok",
+      "posts": 21
+    },
+    "1108250:40": {
+      "url": "https://4pda.to/forum/index.php?showtopic=1108250&st=40",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7060": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7060",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7080": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7080",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7100": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7100",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7120": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7120",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7140": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7140",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7160": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7160",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7180": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7180",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7200": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7200",
+      "status": "ok",
+      "posts": 21
+    },
+    "665305:7220": {
+      "url": "https://4pda.to/forum/index.php?showtopic=665305&st=7220",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29260": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29260",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29280": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29280",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29300": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29300",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29320": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29320",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29340": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29340",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29360": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29360",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29380": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29380",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29400": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29400",
+      "status": "ok",
+      "posts": 21
+    },
+    "470933:29420": {
+      "url": "https://4pda.to/forum/index.php?showtopic=470933&st=29420",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:880": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=880",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:900": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=900",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:920": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=920",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:940": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=940",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:960": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=960",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:980": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=980",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:1000": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=1000",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:1020": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=1020",
+      "status": "ok",
+      "posts": 21
+    },
+    "956751:1040": {
+      "url": "https://4pda.to/forum/index.php?showtopic=956751&st=1040",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1120": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1120",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1140": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1140",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1160": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1160",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1180": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1180",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1200": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1200",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1220": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1220",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1240": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1240",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1260": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1260",
+      "status": "ok",
+      "posts": 21
+    },
+    "775241:1280": {
+      "url": "https://4pda.to/forum/index.php?showtopic=775241&st=1280",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:780": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=780",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:800": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=800",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:820": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=820",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:840": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=840",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:860": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=860",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:880": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=880",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:900": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=900",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:920": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=920",
+      "status": "ok",
+      "posts": 21
+    },
+    "733855:940": {
+      "url": "https://4pda.to/forum/index.php?showtopic=733855&st=940",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:120": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=120",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:140": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=140",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:160": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=160",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:180": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=180",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:200": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=200",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:220": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=220",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:240": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=240",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:260": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=260",
+      "status": "ok",
+      "posts": 21
+    },
+    "803793:280": {
+      "url": "https://4pda.to/forum/index.php?showtopic=803793&st=280",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:340": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=340",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:360": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=360",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:380": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=380",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:400": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=400",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:420": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=420",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:440": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=440",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:460": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=460",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:480": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=480",
+      "status": "ok",
+      "posts": 21
+    },
+    "526450:500": {
+      "url": "https://4pda.to/forum/index.php?showtopic=526450&st=500",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2100": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2100",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2120": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2120",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2140": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2140",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2160": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2160",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2180": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2180",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2200": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2200",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2220": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2220",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2240": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2240",
+      "status": "ok",
+      "posts": 21
+    },
+    "791713:2260": {
+      "url": "https://4pda.to/forum/index.php?showtopic=791713&st=2260",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:140": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=140",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:160": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=160",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:180": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=180",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:200": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=200",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:220": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=220",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:240": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=240",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:260": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=260",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:280": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=280",
+      "status": "ok",
+      "posts": 21
+    },
+    "484325:300": {
+      "url": "https://4pda.to/forum/index.php?showtopic=484325&st=300",
+      "status": "ok",
+      "posts": 21
+    },
+    "390098:20": {
+      "url": "https://4pda.to/forum/index.php?showtopic=390098&st=20",
+      "status": "ok",
+      "posts": 21
+    },
+    "390098:40": {
+      "url": "https://4pda.to/forum/index.php?showtopic=390098&st=40",
+      "status": "ok",
+      "posts": 21
+    },
+    "390098:60": {
+      "url": "https://4pda.to/forum/index.php?showtopic=390098&st=60",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:240": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=240",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:260": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=260",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:280": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=280",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:300": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=300",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:320": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=320",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:340": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=340",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:360": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=360",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:380": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=380",
+      "status": "ok",
+      "posts": 21
+    },
+    "640588:400": {
+      "url": "https://4pda.to/forum/index.php?showtopic=640588&st=400",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7100": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7100",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7120": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7120",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7140": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7140",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7160": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7160",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7180": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7180",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7200": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7200",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7220": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7220",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7240": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7240",
+      "status": "ok",
+      "posts": 21
+    },
+    "392249:7260": {
+      "url": "https://4pda.to/forum/index.php?showtopic=392249&st=7260",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:440": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=440",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:460": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=460",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:480": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=480",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:500": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=500",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:520": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=520",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:540": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=540",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:560": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=560",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:580": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=580",
+      "status": "ok",
+      "posts": 21
+    },
+    "211746:600": {
+      "url": "https://4pda.to/forum/index.php?showtopic=211746&st=600",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:620": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=620",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:640": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=640",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:660": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=660",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:680": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=680",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:700": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=700",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:720": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=720",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:740": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=740",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:760": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=760",
+      "status": "ok",
+      "posts": 21
+    },
+    "244956:780": {
+      "url": "https://4pda.to/forum/index.php?showtopic=244956&st=780",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1500": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1500",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1520": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1520",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1540": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1540",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1560": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1560",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1580": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1580",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1600": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1600",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1620": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1620",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1640": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1640",
+      "status": "ok",
+      "posts": 21
+    },
+    "979614:1660": {
+      "url": "https://4pda.to/forum/index.php?showtopic=979614&st=1660",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:720": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=720",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:740": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=740",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:760": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=760",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:780": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=780",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:800": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=800",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:820": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=820",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:840": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=840",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:860": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=860",
+      "status": "ok",
+      "posts": 21
+    },
+    "569469:880": {
+      "url": "https://4pda.to/forum/index.php?showtopic=569469&st=880",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:40": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=40",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:60": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=60",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:80": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=80",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:100": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=100",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:120": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=120",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:140": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=140",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:160": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=160",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:180": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=180",
+      "status": "ok",
+      "posts": 21
+    },
+    "794031:200": {
+      "url": "https://4pda.to/forum/index.php?showtopic=794031&st=200",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:560": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=560",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:580": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=580",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:600": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=600",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:620": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=620",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:640": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=640",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:660": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=660",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:680": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=680",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:700": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=700",
+      "status": "ok",
+      "posts": 21
+    },
+    "579514:720": {
+      "url": "https://4pda.to/forum/index.php?showtopic=579514&st=720",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:460": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=460",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:480": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=480",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:500": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=500",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:520": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=520",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:540": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=540",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:560": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=560",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:580": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=580",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:600": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=600",
+      "status": "ok",
+      "posts": 21
+    },
+    "315226:620": {
+      "url": "https://4pda.to/forum/index.php?showtopic=315226&st=620",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:220": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=220",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:240": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=240",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:260": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=260",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:280": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=280",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:300": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=300",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:320": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=320",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:340": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=340",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:360": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=360",
+      "status": "ok",
+      "posts": 21
+    },
+    "912734:380": {
+      "url": "https://4pda.to/forum/index.php?showtopic=912734&st=380",
+      "status": "ok",
+      "posts": 21
+    }
+  },
+  "started_at": "2026-11-05T17:46:46.590589+00:00",
+  "posts_count": 5539,
+  "missing_author": 0,
+  "missing_date": 0,
+  "missing_post_id": 0
+}

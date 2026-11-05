@@ -1,0 +1,38 @@
+{
+  "topic_url": "https://www.drive2.ru/featured-topics/CVQ0gEAAcHQ/",
+  "post_limit": 100,
+  "page_limit": 10,
+  "archive_complete": false,
+  "pages": [
+    {
+      "url": "https://www.drive2.ru/featured-topics/CVQ0gEAAcHQ/",
+      "cards": 20,
+      "method": "cache"
+    },
+    {
+      "url": "https://www.drive2.ru/featured-topics/CVQ0gEAAcHQ/?to=AhECQ1BJVDEI2YziM0CGAAjZjONqx6cQ8Pbs9mbyG4X9fFv_XeglVCrwNos",
+      "cards": 20,
+      "method": "cache"
+    },
+    {
+      "url": "https://www.drive2.ru/featured-topics/CVQ0gEAAcHQ/?to=AhECQ1BJVDEI1-C5cwy6AAjX4YKehrGAf1Czh8oZ-RPXoNuPUb9-ZwqG10I",
+      "cards": 20,
+      "method": "cache"
+    },
+    {
+      "url": "https://www.drive2.ru/featured-topics/CVQ0gEAAcHQ/?to=AhECQ1BJVDEI1iheKQkOAAjWKF59zkHQA1LY1K36DRyKk7dkJHXlZsptcDI",
+      "cards": 20,
+      "method": "cache"
+    },
+    {
+      "url": "https://www.drive2.ru/featured-topics/CVQ0gEAAcHQ/?to=AhECQ1BJVDEI1Ca7eS_UAAjUJrwjEdGAte65ojqHwaj4EPMK6DGOA5ANGgQ",
+      "cards": 17,
+      "method": "cache"
+    }
+  ],
+  "stop_reason": "no_next_link",
+  "posts_count": 97,
+  "ok_posts": 97,
+  "full_text_collection_complete": true,
+  "collected_at": "2026-11-05T19:46:50.160370+00:00"
+}

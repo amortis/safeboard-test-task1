@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-11-05T16:39:42.491512+00:00",
+  "scope": "dzen_only",
+  "records": 42,
+  "statuses": {
+    "ok": 42
+  },
+  "text_statuses": {
+    "full_text_available": 31,
+    "summary_only": 11
+  },
+  "external_articles_included": 0,
+  "duplicate_ids": 0,
+  "archive_complete": false
+}
